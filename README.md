@@ -1,5 +1,5 @@
 Multi-Agent Generative AI Stock Market Simulation
-#Overview:
+Overview
 
 This project is a multi-agent stock market simulation powered by Generative AI, designed to study emergent market behavior arising from heterogeneous, autonomous trading agents.
 
@@ -9,59 +9,59 @@ Two tradable stocks (Stock A and Stock B)
 
 50 AI-powered trader agents, each with distinct personalities and risk profiles
 
-A full 264 trading-day cycle (1 trading year)
+A full 264 trading-day cycle (one trading year)
 
-Agents make independent buy/sell/hold decisions based on personality, market conditions, capital constraints, news events, and learned behavior—resulting in realistic price dynamics, volatility, and market shocks.
+Agents make independent buy, sell, or hold decisions based on personality, market conditions, capital constraints, news events, and learned behavior—resulting in realistic price dynamics, volatility, and market shocks.
 
-#Key Features:
+Key Features
 Virtual Market Environment
 
 Two stocks with dynamically evolving prices
 
-Supply–demand driven price formation
+Supply-and-demand-driven price formation
 
-Market reacts to agent behavior and external news
+Market behavior influenced by agent actions and external news events
 
-#AI Trading Agents (50 Total):
+AI Trading Agents (50 Total)
 
 Each agent is uniquely parameterized with:
 
-Risk appetite (conservative → aggressive)
+Risk appetite ranging from conservative to aggressive
 
-Trading strategy (momentum, contrarian, random, news-driven, long-term)
+Trading strategies including momentum, contrarian, random, news-driven, and long-term investing
 
-Capital constraints
+Capital and liquidity constraints
 
-Decision-making powered by Generative AI reasoning
+Decision-making driven by Generative AI reasoning
 
-#Trading Timeline:
+Trading Timeline
 
 264 trading days
 
 Daily market opening, trading, and closing cycles
 
-Long-term trends and short-term volatility emerge naturally
+Emergence of long-term trends and short-term volatility
 
 Advanced Market Mechanics
-#News & Events System:
+News and Events System
 
 Random and scheduled news events
 
-Positive/negative sentiment impacts on Stock A and/or B
+Positive and negative sentiment impacts on Stock A and/or Stock B
 
-Agents interpret news differently based on personality
+Agents interpret news differently based on personality traits
 
-#Loans & Interest:
+Loans and Interest
 
-Agents can borrow capital when liquidity is low
+Agents can borrow capital during liquidity shortages
 
-Interest accumulates daily
+Interest accrues on borrowed capital daily
 
-Over-leveraged agents face higher bankruptcy risk
+Highly leveraged agents face increased bankruptcy risk
 
-# Bankruptcy & Exit:
+Bankruptcy and Market Exit
 
-Agents unable to service debt or maintain minimum capital go bankrupt
+Agents unable to service debt or maintain minimum capital are declared bankrupt
 
 Bankrupt agents exit the market
 
@@ -71,40 +71,38 @@ Simulation Outputs
 
 The system tracks and logs:
 
-Daily stock prices (A & B)
+Daily stock prices for Stock A and Stock B
 
 Trading volume
 
-Agent portfolio values
+Individual agent portfolio values
 
-Loan balances and interest
+Loan balances and interest accumulation
 
 Bankruptcy events
 
 Market-wide statistics
 
-These outputs can be used for:
+These outputs support:
 
 Market behavior analysis
 
-Strategy comparison
+Strategy performance comparison
 
-Emergence studies
+Emergent behavior studies
 
-Visualization and research experiments
+Visualization and research experimentation
 
-#Use Cases:
+Use Cases
 
 Financial market simulations
 
-Multi-agent reinforcement & generative AI research
+Multi-agent and generative AI research
 
 Behavioral finance experiments
 
-Stress testing market dynamics
+Market stress testing
 
-Academic projects & publications
+Academic research projects and publications
 
-Quant/AI portfolio demonstration
-
-
+Quantitative finance and AI portfolio demonstrations
