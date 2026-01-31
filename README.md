@@ -63,6 +63,4 @@ Multi-agent reinforcement & generative AI research
 Behavioral finance experiments
 Stress testing market dynamics
 
-🎓 Academic projects & publications
 
-💼 Quant/AI portfolio demonstration
